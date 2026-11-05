@@ -1,0 +1,10 @@
+# Exclude build artifacts
+dist/* linguist-vendored
+src/** linguist-detectable
+package-lock.json linguist-generated 
+
+*.html linguist-vendored
+
+*.png binary
+
+public/*.html linguist-vendored
