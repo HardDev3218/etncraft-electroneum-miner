@@ -1,0 +1,7 @@
+dist/
+*.log
+coverage/
+.DS_Store
+build/
+.pnpm-store/
+.cache/
